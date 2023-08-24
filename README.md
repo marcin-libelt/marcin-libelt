@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @marcin-libelt
-- 👀 I’m interested in ReactJs, ReactNative
+- 👀 I’m interested in ReactJs and NextJs apps
 - 💞️ I’m looking to collaborate on ReactJs projects as a part of greater team.
 - 📫 How to reach me at https://www.linkedin.com/in/marcin-libelt-74ba2a57/
 
